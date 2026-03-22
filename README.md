@@ -141,6 +141,7 @@ https://github.com/hneemann/Digital
 * comportement des branches
 * stalls lors des dépendances
 * flush après un jump ou branch
+* vérifier le détail de l'execution dans `program_asm.txt`
 
 ---
 
