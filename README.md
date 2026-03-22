@@ -118,15 +118,17 @@ https://github.com/hneemann/Digital
 
 * Lancer Digital
 * Ouvrir le fichier principal `CPU.dig`
+* Lancer la simulation
 
 ### 3. Charger un programme
 
-* Utiliser le module `CC_lpg`
-* Charger le programme dans la RAM
+* Utiliser le module `CC_lpg` via l'entrée `W_lpg`
+* Laisser Charger le programme dans la RAM
 
 ### 4. Lancer la simulation
 
 * Mode step-by-step recommandé
+* Activer le signal `W` puis presser la touche `UP` du clavier pour faire avancer le pipeline
 * Observer :
 
   * PC
