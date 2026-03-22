@@ -52,7 +52,7 @@ Description des modules principaux :
 
 ### `IMM_dec`
 
-Décode les immédiats selon le format d’instruction (I, S, B, U, J).
+Décode les immédiats selon le format d’instruction (I, S, B, J...).
 
 ### `Reg_file_rv32i`
 
@@ -117,7 +117,7 @@ https://github.com/hneemann/Digital
 ### 2. Ouvrir le projet
 
 * Lancer Digital
-* Ouvrir le fichier principal `.dig`
+* Ouvrir le fichier principal `CPU.dig`
 
 ### 3. Charger un programme
 
